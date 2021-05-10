@@ -1,0 +1,29 @@
+{
+  "name": "midtermexam",
+  "version": "1.0.0",
+  "description": "midtermexam",
+  "main": "db.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DoreenPandi/OrinePandi_MidtermExam.git"
+  },
+  "keywords": [
+    "midtermexam"
+  ],
+  "author": "orinepandi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DoreenPandi/OrinePandi_MidtermExam/issues"
+  },
+  "homepage": "https://github.com/DoreenPandi/OrinePandi_MidtermExam#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7",
+    "pg": "^8.6.0"
+  }
+}
